@@ -1,0 +1,6 @@
+authors = ["Maximilian Preisinger "]
+name = "SunAndMoon"
+uuid = "30900d0a-bb1e-11e8-39f3-1df5dbedaace"
+version = "0.1.0"
+
+[deps]
